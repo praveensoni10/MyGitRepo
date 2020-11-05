@@ -15,7 +15,7 @@ public class GitProjet
 	        int age = sc.nextInt();
 	        System.out.println("Enter Mob no.:");
 	        long mobileNo = sc.nextLong();
-	        System.out.println("Enter CGPA:");
+	        System.out.println("Enter your CGPA:");
 	        double cgpa = sc.nextDouble();
 	        System.out.println("Your details are as below: ");
 	        System.out.println("Name: "+name);
